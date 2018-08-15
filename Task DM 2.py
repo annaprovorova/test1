@@ -8,4 +8,5 @@ pen_down()
 for x in range(0, 7):
     to_point(x,f(x))
 
+pen_up()
 sleep(10)
