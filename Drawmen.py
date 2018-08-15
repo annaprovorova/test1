@@ -6,6 +6,9 @@ def init_drawman():
     x_current = 0
     y_current = 0
     t = Turtle()
+    t.turtlesize(1)
+    t.shape('turtle')
+    t.color('yellow')
     t.penup()
     t.goto(x_current, y_current)
 
