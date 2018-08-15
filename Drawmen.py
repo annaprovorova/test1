@@ -12,6 +12,7 @@ def init_drawman():
     t.penup()
     t.goto(x_current, y_current)
 
+
 def test_drawman():
     """
     Тестирование работы чертёжника
