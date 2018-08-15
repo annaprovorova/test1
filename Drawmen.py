@@ -8,7 +8,7 @@ def init_drawman():
     t = Turtle()
     t.turtlesize(1)
     t.shape('turtle')
-    t.color('yellow')
+    t.color('darkgreen')
     t.penup()
     t.goto(x_current, y_current)
 
