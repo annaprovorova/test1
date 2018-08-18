@@ -1,4 +1,4 @@
-from Drawmen import *
+from Чертёжник.Drawmen import *
 from time import sleep
 A= [(0,0),(100, 0),(0, 100),(-100, 0), (0, -100)]
 
