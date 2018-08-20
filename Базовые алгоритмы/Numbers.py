@@ -36,6 +36,11 @@ def Euclid_substraction(a, b):
             a, b = b, (b - a)
     print (a) #не важно какой возвращать или печать - в конце они равны.
 
+
+#факториал числа
+def factotial(n):
+    
+
 #Алгоритм Евклида через деление с остатком
 #O(log(a/b))
 def Euclid_division_1(a, b):
